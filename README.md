@@ -17,8 +17,7 @@ The memorandum creation tool utilizes OpenAI's API to generate high-quality busi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/memorandum-creator.git
-    cd memorandum-creator
+    [git clone https://github.com/Bikrm10/Memorandum.git
     ```
 
 2. Create a virtual environment (optional but recommended):
